@@ -86,7 +86,7 @@ class VolatilityCharts extends Component {
 			}]
 		};
 		const containerProps = {
-			width: "100%",
+			width: "300%",
 			height: "100px",
 			margin: "auto"
 		  };
