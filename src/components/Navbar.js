@@ -9,8 +9,8 @@ function navbar() {
     <div>
         <Navbar bg="dark" variant="dark">
             <NavLink to="/"><Navbar.Brand href="">
-                <img src={Logo} height="30px" alt="React Bootstrap logo" style={{ paddingRight: '10px'}} />
-                G A R G L E T
+                <img src={Logo} height="30px" alt="React Bootstrap logo" style={{ paddingRight: '12px'}} />
+                GARGLET
                 </Navbar.Brand></NavLink>
             <Nav className="mr-auto">
                 <Nav.Link><NavLink to="/"><span style={{ color : 'white'}}>Home</span></NavLink></Nav.Link>
