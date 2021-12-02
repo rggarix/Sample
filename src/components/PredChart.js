@@ -122,8 +122,8 @@ class PredCharts extends Component {
       },
     };
     const containerProps = {
-      width: "100%",
-      height: "450px",
+      width: "200%",
+      height: "350px",
       margin: "auto"
     };
     const {show} = this.state;
